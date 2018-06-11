@@ -1,4 +1,4 @@
-package dequeue;
+package deque;
 
 public class DoublyLinkedList<E> {
 	
