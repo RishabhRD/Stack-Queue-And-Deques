@@ -1,4 +1,4 @@
-package dequeue;
+package deque;
 
 public interface Deque<E> {
       int size();
