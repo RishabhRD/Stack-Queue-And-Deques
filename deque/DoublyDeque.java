@@ -1,4 +1,4 @@
-package dequeue;
+package deque;
 
 public class DoublyDeque<E> implements Deque<E> {
 	private DoublyLinkedList<E> list = new DoublyLinkedList<>();
